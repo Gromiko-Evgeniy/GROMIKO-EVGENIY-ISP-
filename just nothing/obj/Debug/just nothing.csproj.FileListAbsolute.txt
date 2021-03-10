@@ -1,0 +1,7 @@
+C:\Users\egrom\Desktop\just nothing\bin\Debug\just nothing.exe.config
+C:\Users\egrom\Desktop\just nothing\bin\Debug\just nothing.exe
+C:\Users\egrom\Desktop\just nothing\bin\Debug\just nothing.pdb
+C:\Users\egrom\Desktop\just nothing\obj\Debug\just nothing.csprojAssemblyReference.cache
+C:\Users\egrom\Desktop\just nothing\obj\Debug\just nothing.csproj.CoreCompileInputs.cache
+C:\Users\egrom\Desktop\just nothing\obj\Debug\just nothing.exe
+C:\Users\egrom\Desktop\just nothing\obj\Debug\just nothing.pdb
