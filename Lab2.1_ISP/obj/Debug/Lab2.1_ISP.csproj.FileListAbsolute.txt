@@ -1,0 +1,14 @@
+C:\Users\egrom\source\repos\Lab2.1_ISP\bin\Debug\Lab2.1_ISP.exe.config
+C:\Users\egrom\source\repos\Lab2.1_ISP\bin\Debug\Lab2.1_ISP.exe
+C:\Users\egrom\source\repos\Lab2.1_ISP\bin\Debug\Lab2.1_ISP.pdb
+C:\Users\egrom\source\repos\Lab2.1_ISP\obj\Debug\Lab2.1_ISP.csprojAssemblyReference.cache
+C:\Users\egrom\source\repos\Lab2.1_ISP\obj\Debug\Lab2.1_ISP.csproj.CoreCompileInputs.cache
+C:\Users\egrom\source\repos\Lab2.1_ISP\obj\Debug\Lab2.1_ISP.exe
+C:\Users\egrom\source\repos\Lab2.1_ISP\obj\Debug\Lab2.1_ISP.pdb
+C:\Users\egrom\Desktop\Lab2.1_ISP\bin\Debug\Lab2.1_ISP.exe.config
+C:\Users\egrom\Desktop\Lab2.1_ISP\bin\Debug\Lab2.1_ISP.exe
+C:\Users\egrom\Desktop\Lab2.1_ISP\bin\Debug\Lab2.1_ISP.pdb
+C:\Users\egrom\Desktop\Lab2.1_ISP\obj\Debug\Lab2.1_ISP.csprojAssemblyReference.cache
+C:\Users\egrom\Desktop\Lab2.1_ISP\obj\Debug\Lab2.1_ISP.csproj.CoreCompileInputs.cache
+C:\Users\egrom\Desktop\Lab2.1_ISP\obj\Debug\Lab2.1_ISP.exe
+C:\Users\egrom\Desktop\Lab2.1_ISP\obj\Debug\Lab2.1_ISP.pdb
