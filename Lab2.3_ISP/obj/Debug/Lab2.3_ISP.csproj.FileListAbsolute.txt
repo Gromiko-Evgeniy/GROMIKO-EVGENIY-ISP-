@@ -1,0 +1,7 @@
+C:\Users\egrom\Desktop\c#\Lab2.3_ISP\bin\Debug\Lab2.3_ISP.exe.config
+C:\Users\egrom\Desktop\c#\Lab2.3_ISP\bin\Debug\Lab2.3_ISP.exe
+C:\Users\egrom\Desktop\c#\Lab2.3_ISP\bin\Debug\Lab2.3_ISP.pdb
+C:\Users\egrom\Desktop\c#\Lab2.3_ISP\obj\Debug\Lab2.3_ISP.csprojAssemblyReference.cache
+C:\Users\egrom\Desktop\c#\Lab2.3_ISP\obj\Debug\Lab2.3_ISP.csproj.CoreCompileInputs.cache
+C:\Users\egrom\Desktop\c#\Lab2.3_ISP\obj\Debug\Lab2.3_ISP.exe
+C:\Users\egrom\Desktop\c#\Lab2.3_ISP\obj\Debug\Lab2.3_ISP.pdb
