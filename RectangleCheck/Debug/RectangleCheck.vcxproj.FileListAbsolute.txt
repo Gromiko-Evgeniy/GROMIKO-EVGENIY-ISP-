@@ -1,0 +1,2 @@
+C:\Users\egrom\Desktop\c#\RectangleCheck\Debug\RectangleCheck.dll
+C:\Users\egrom\Desktop\c#\RectangleCheck\Debug\RectangleCheck.pdb
