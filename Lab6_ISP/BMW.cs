@@ -96,29 +96,5 @@ namespace Lab3_ISP
         {
             return inspectionDate;
         }
-
-        //static void Documentation(IVehicleDocumentation ObjectDocumentation, string documentationActon, string iformation)
-        //{
-        //    if (documentationActon == "ChangeOwner")
-        //    {
-        //        ObjectDocumentation.ChangeOwner(iformation);
-        //    }
-        //    else
-        //    {
-        //        ObjectDocumentation.PassInspection(iformation);
-        //    }
-        //}
-
-        //static void Documentation(IVehicleDocumentation ObjectDocumentation, string documentationActon)
-        //{
-        //    if (documentationActon == "GetOwner")
-        //    {
-        //        ObjectDocumentation.GetOwner();
-        //    }
-        //    else
-        //    {
-        //        ObjectDocumentation.GetInspectionDate();
-        //    }
-        //}
     }
 }
