@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Lab3_ISP
 {
@@ -70,21 +66,20 @@ namespace Lab3_ISP
             }
             throw new NotSupportedException();
         }
-        void IVehicleDocumentation.ChangeOwner(string newName)
+        public void ChangeOwner(string newName)
         {
             ownerName = newName;
         }
-        string IVehicleDocumentation.GetOwner()
+        public string GetOwner()
         {
             return ownerName;
         }
-        void IVehicleDocumentation.PassInspection(string newInspectionDate)
+        public void PassInspection(string newInspectionDate)
         {
-            ownerName = newInspectionDate;
+            inspectionDate = newInspectionDate;
         }
-        string IVehicleDocumentation.GetInspectionDate()
+        public string GetInspectionDate()
         {
             return inspectionDate;
         }
-    }
 }
